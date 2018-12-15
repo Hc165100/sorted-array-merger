@@ -1,0 +1,40 @@
+body {
+    background-color: blue;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+#arr3 {
+    width: 70%;
+    height: 2em;
+    display: inline-block;
+    overflow: auto;
+    background-color: turquoise;
+    margin: 20px 15%;
+    text-align: center;
+    color: black;
+    font-size: 1.5em;
+}
+
+form {
+    display: block;
+    margin: auto;
+    text-align: center;
+    color: white;
+    font-family: helvetica;
+}
+
+#arr1 {
+    margin-left: 35px;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    color: black;
+    background-color: tan;
+    border-radius: 10px;
+}
